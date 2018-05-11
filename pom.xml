@@ -12,7 +12,7 @@
 
 
     <properties>
-        <dep.presto.version>0.198</dep.presto.version>
+        <dep.presto.version>0.200</dep.presto.version>
         <dep.airlift.version>0.167</dep.airlift.version>
         <dep.slice.version>0.33</dep.slice.version>
     </properties>
